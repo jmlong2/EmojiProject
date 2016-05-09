@@ -24,7 +24,7 @@ div.content
   transform: translate(-50%, 0%);
   max-width: 65%;
 }
-p
+p, ul
 {
   font-family: sans-serif;
   /*position: fixed;*/
