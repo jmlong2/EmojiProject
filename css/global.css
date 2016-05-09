@@ -48,3 +48,11 @@ p, ul
   /*transform: translate(-50%, 0%);*/
   text-align: justify;
 }
+#banner
+{
+  position: absolute;
+  left: 50%;
+  top: 16%;
+  transform: translate(-50%, 20%);
+  font-family: sans-serif;
+}
