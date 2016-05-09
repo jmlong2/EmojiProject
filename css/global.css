@@ -1,0 +1,18 @@
+h1
+{
+  position: fixed;
+  left: 50%;
+  top: 3%;
+  transform: translate(-50%, 20%);
+  font-family: sans-serif;
+}
+
+p
+{
+  font-family: sans-serif;
+  position: fixed;
+  left: 50%;
+  top: 15%;
+  transform: translate(-50%, 0%);
+
+}
