@@ -26,9 +26,18 @@ div.content
 {
   position: absolute;
   left: 50%;
-  top: 35%;
+  top: 18%;
   transform: translate(-50%, 0%);
   max-width: 65%;
+}
+#content
+{
+  font-family: sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 35%;
+  transform: translate(-50%, 0%);
+  text-align: justify;
 }
 p, ul
 {
@@ -37,15 +46,5 @@ p, ul
   /*left: 50%;*/
   /*top: 15%;*/
   /*transform: translate(-50%, 0%);*/
-  text-align: justify;
-}
-
-#pintro
-{
-  font-family: sans-serif;
-  position: absolute;
-  left: 50%;
-  /*top: 35%;*/
-  transform: translate(-50%, 0%);
   text-align: justify;
 }
