@@ -2,7 +2,16 @@ h1
 {
   position: fixed;
   left: 50%;
-  top: 3%;
+  top: 4%;
+  transform: translate(-50%, 20%);
+  font-family: sans-serif;
+}
+
+#hintro
+{
+  position: fixed;
+  left: 50%;
+  top: 26%;
   transform: translate(-50%, 20%);
   font-family: sans-serif;
 }
@@ -14,5 +23,15 @@ p
   left: 50%;
   top: 15%;
   transform: translate(-50%, 0%);
+  text-align: justify;
+}
 
+#pintro
+{
+  font-family: sans-serif;
+  position: fixed;
+  left: 50%;
+  top: 35%;
+  transform: translate(-50%, 0%);
+  text-align: justify;
 }
