@@ -8,7 +8,7 @@ body
   font-family: sans-serif;
   position: absolute;
   left: 50%;
-  top: 35%;
+  top: 234px;
   transform: translate(-50%, 0%);
   text-align: justify;
 }
@@ -16,7 +16,7 @@ div.content
 {
   position: absolute;
   left: 50%;
-  top: 18%;
+  top: 120px;
   transform: translate(-50%, 0%);
   max-width: 65%;
   padding-bottom: 50px;
@@ -34,7 +34,7 @@ h1
 {
   position: absolute;
   left: 50%;
-  top: 10%;
+  top: 67px;
   transform: translate(-50%, 20%);
   font-family: sans-serif;
 }
@@ -42,7 +42,7 @@ h1
 {
   position: absolute;;
   left: 50%;
-  top: 26%;
+  top: 174px;
   transform: translate(-50%, 20%);
   font-family: sans-serif;
 }
@@ -60,7 +60,7 @@ p, ul
 {
   position: absolute;
   left: 50%;
-  top: 16%;
+  top: 107px;
   transform: translate(-50%, 20%);
   font-family: sans-serif;
 }
