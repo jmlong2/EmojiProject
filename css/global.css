@@ -38,6 +38,7 @@ h1
   top: 67px;
   transform: translate(-50%, 20%);
   font-family: sans-serif;
+  white-space: nowrap;
 }
 #hintro
 {
