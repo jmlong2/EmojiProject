@@ -19,6 +19,7 @@ div.content
   top: 18%;
   transform: translate(-50%, 0%);
   max-width: 65%;
+  padding-bottom: 50px;
 }
 div.footer
 {
